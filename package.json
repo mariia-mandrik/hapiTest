@@ -1,0 +1,20 @@
+{
+  "name": "apistuding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^19.2.0",
+    "await": "^0.2.6",
+    "fetch": "^1.1.0",
+    "hapi": "^18.1.0",
+    "node-fetch": "^2.6.0",
+    "qs": "^6.9.4"
+  }
+}
